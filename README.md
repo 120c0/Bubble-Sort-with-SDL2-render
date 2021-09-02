@@ -1,2 +1,2 @@
 # Bubble Sort Algorithm with SDL2 - C
-### Esse projeto foi um uso de renderizção de "Sort" com SDL2
+### Esse projeto foi uma maneira de renderizar 'Bubble Sort' com SDL2.
